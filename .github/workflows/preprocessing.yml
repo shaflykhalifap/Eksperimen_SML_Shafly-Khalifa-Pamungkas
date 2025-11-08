@@ -31,4 +31,4 @@ jobs:
 
     - name: Verify preprocessed dataset
       run: |
-        ls -l namadataset_preprocessing/
+        ls -l preprocessing/
