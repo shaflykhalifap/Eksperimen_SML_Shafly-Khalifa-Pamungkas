@@ -55,6 +55,6 @@ def preprocess_data(input_path, output_path):
 # Contoh penggunaan
 if __name__ == "__main__":
     preprocess_data(
-        input_path="namadataset_raw/car_price.csv",
-        output_path="namadataset_preprocessing/car_price_preprocessed.csv"
+        input_path="car_price_prediction_.csv",
+        output_path="preprocessing/car_price_preprocessed.csv"
     )
