@@ -1,5 +1,5 @@
 Car ID,Brand,Year,Engine Size,Fuel Type,Transmission,Mileage,Condition,Price,Model
-1,Tesla,2016,2.3,Petrol,Manual,114832,New,26613.92,Model X
+1,Tesla,2017,2.3,Petrol,Manual,114832,New,26613.92,Model X
 2,BMW,2018,4.4,Electric,Manual,143190,Used,14679.61,5 Series
 3,Audi,2013,4.5,Electric,Manual,181601,New,44402.61,A4
 4,Tesla,2011,4.1,Diesel,Automatic,68682,New,86374.33,Model Y
@@ -2499,3 +2499,4 @@ Car ID,Brand,Year,Engine Size,Fuel Type,Transmission,Mileage,Condition,Price,Mod
 2498,Ford,2021,1.1,Hybrid,Manual,272827,Like New,29902.45,Fiesta
 2499,Audi,2002,4.5,Diesel,Manual,229164,Like New,46085.67,Q5
 2500,Toyota,2005,4.6,Diesel,Automatic,80978,Used,16594.14,RAV4
+
